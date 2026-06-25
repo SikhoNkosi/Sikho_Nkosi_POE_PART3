@@ -25,15 +25,15 @@ Integrated keyword dictionaries to interpret user input flexibly.
 
 Recognizes commands even when phrased differently:
 
-“Add a task”
+Add a task
 
-“Remind me to update my password”
+Remind me to update my password
 
-“Show my tasks”
+Show my tasks
 
-“Complete task 1”
+Complete task 1
 
-“Delete task 2”
+Delete task 2
 
 Reduced reliance on “I didn’t understand” by mapping synonyms and variations.
 
@@ -72,11 +72,11 @@ Helps users learn while interacting with the chatbot.
 5. Improved Chatbot Responses
 Dynamic confirmations for actions:
 
-“Task added successfully.”
+Task added successfully.
 
-“Task completed.”
+Task completed.
 
-“Task deleted.”
+Task deleted.
 
 Clear task listings when requested.
 
